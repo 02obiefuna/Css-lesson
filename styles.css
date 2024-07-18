@@ -1,9 +1,38 @@
-h1 {
-    color: green;
+.flex-container {
+    display: flex;
+    border: 10px solid green;
+    justify-content: center;
+    width: 200px;
 }
-div {
-    width: 300px;
-    border: 15px solid green;
-    padding: 50px;
-    margin: 100px;
+.box1 {
+    width: 10vw;
+    background-color: blue;
+}
+.box2 {
+    width: 10vw;
+    background-color: chocolate;
+}
+.box3 {
+    width: 10vw;
+    background-color: aqua;
+}
+.box4 {
+    width: 10vw;
+    background-color: wheat;
+}
+.box5 {
+    width: 10vw;
+    background-color: teal;
+}
+.box6 {
+    width: 10vw;
+    background-color: red;
+}
+.box7 {
+    width: 10vw;
+    background-color: darkmagenta;
+}
+.box8 {
+    width: 10vw;
+    background-color: gold;
 }
